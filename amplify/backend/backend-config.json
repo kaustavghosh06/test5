@@ -1,0 +1,12 @@
+{
+	"storage": {
+		"dynamo55059e2a": {
+			"service": "DynamoDB",
+			"providerPlugin": "awscloudformation"
+		},
+		"dynamofa21a953": {
+			"service": "DynamoDB",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
